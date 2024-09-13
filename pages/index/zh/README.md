@@ -16,7 +16,7 @@ id: home_page
     <div class="section" style="height: 100vh;">
         <div>
             <h1><span>彭康学导团</span></h1>
-            <h3>西安交通大学资源分享网站</h3>
+            <h3>欢迎来到西安交通大学资源分享网站</h3>
         </div>
         <div class="big_btn_wrapper">
             <div class="big_btn">
