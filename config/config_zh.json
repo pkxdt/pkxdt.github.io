@@ -1,40 +1,44 @@
 {
     "locale": "zh_CN",
     "navbar": {
-        "title": "teedoc",
+        "title": "彭康学导团",
         "logo": {
             "alt": "彭康学导团",
             "src": "/static/image/logo.png"
         },
         "home_url": "/",
         "items": [
+            <!--
             {
                 "url": "/get_started/zh/",
                 "label": "安装使用",
                 "position": "left"
             },
+            -->
             {
                 "url": "/develop/zh/",
-                "label": "开发",
+                "label": "协助开发",
                 "position": "left"
             },
             {
                 "url": "/blog/",
-                "label": "博客",
+                "label": "留言",
                 "position": "left"
             },
             {
-                "url": "https://github.com/neutree/teedoc",
+                "url": "https://github.com/pkxdt/pkxdt.github.io",
                 "label": "github",
                 "target": "_blank",
                 "position": "right"
             },
+                 <!--
             {
                 "id": "language",
                 "label": "Language: ",
                 "position": "right",
                 "type": "language"
             }
+            -->
         ]
     },
     "footer":{
@@ -47,15 +51,18 @@
                         "url": "https://teedoc.neucrack.com",
                         "target": "_blank"
                     },
+                         <!--
                     {
                         "label": "Copyright © 2021 Neucrack",
                         "url": "https://neucrack.com",
                         "target": "_blank"
                     },
+                   
                     {
                         "label": "网站地图",
                         "url": "/sitemap.xml"
                     }
+                     -->
                 ]
             },
             {
@@ -81,12 +88,12 @@
         ],
         "bottom": [
             {
-                "label": "渝ICP备19015320号",
+                "label": "还没有备案号",
                 "url": "https://beian.miit.gov.cn",
                 "target": "_blank"
             },
             {
-                "label": "粤公网安备44030602004109号",
+                "label": "同上，后续修改",
                 "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030602004109",
                 "target": "_blank"
             }
