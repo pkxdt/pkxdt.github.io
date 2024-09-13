@@ -8,13 +8,13 @@
         },
         "home_url": "/",
         "items": [
-            <!--
+            
             {
                 "url": "/get_started/zh/",
                 "label": "安装使用",
                 "position": "left"
             },
-            -->
+            
             {
                 "url": "/develop/zh/",
                 "label": "协助开发",
@@ -31,14 +31,14 @@
                 "target": "_blank",
                 "position": "right"
             },
-                 <!--
+                 
             {
                 "id": "language",
                 "label": "Language: ",
                 "position": "right",
                 "type": "language"
             }
-            -->
+            
         ]
     },
     "footer":{
@@ -51,7 +51,7 @@
                         "url": "https://teedoc.neucrack.com",
                         "target": "_blank"
                     },
-                         <!--
+                         
                     {
                         "label": "Copyright © 2021 Neucrack",
                         "url": "https://neucrack.com",
@@ -62,7 +62,7 @@
                         "label": "网站地图",
                         "url": "/sitemap.xml"
                     }
-                     -->
+                     
                 ]
             },
             {
