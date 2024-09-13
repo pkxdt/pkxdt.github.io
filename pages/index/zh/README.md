@@ -100,6 +100,7 @@ id: home_page
             </div>
         </div>
     </div>
+		-->
     <div class="section" style="height: 100vh;">
         <div class="big_btn_wrapper">
             <div class="big_btn">
@@ -110,7 +111,7 @@ id: home_page
             </div>
         </div>
     </div>
-	-->
+
 </div>
 <div>
 <script type='text/javascript'>
