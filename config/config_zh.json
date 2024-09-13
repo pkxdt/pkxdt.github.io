@@ -3,7 +3,7 @@
     "navbar": {
         "title": "teedoc",
         "logo": {
-            "alt": "teedoc logo",
+            "alt": "彭康学导团",
             "src": "/static/image/logo.png"
         },
         "home_url": "/",
