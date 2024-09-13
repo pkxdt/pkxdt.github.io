@@ -1,6 +1,6 @@
 
 ---
-title: 开源静态文档网站生成工具
+title: 彭康学导团资源网站
 keywords: teedoc, markdown, jupyter notebook, html, 文档生成, 替代gitbook, 网站生成, 静态网站, 文档网站生成, 多文档, 静态博客
 desc: teedoc，开源静态文档网站生成工具，将 markdown 或者 jupyter notbook 转换成 html 静态网页， 用于个人或企业建站，建博客，建资料库，wiki等
 id: home_page
@@ -15,7 +15,7 @@ id: home_page
 <div id="fullpage">
     <div class="section" style="height: 100vh;">
         <div>
-            <h1><span>彭康学导团</span></h1>
+            <h1><span>PKXDT</span></h1>
             <h3>欢迎来到西安交通大学资源分享网站</h3>
         </div>
         <div class="big_btn_wrapper">
@@ -27,6 +27,7 @@ id: home_page
             </div>
         </div>
     </div>
+	<!--
     <div class="section dsc_wrapper_left">
         <div>
             <div class="dsc_left">
@@ -110,7 +111,7 @@ id: home_page
         </div>
     </div>
 </div>
-
+-->
 <div>
 <script type='text/javascript'>
     $(document).ready(function () {
